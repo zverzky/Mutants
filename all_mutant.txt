@@ -1,0 +1,7 @@
+Position: <2803.862061 0 4220.950195> Animal_CanisLupus_Grey
+Position: <2803.862061 0 4220.0195> Animal_CanisLupus_Gre
+Position: <2803.8661 0 4220.950195> Animal_CanisLupus_Gr
+Position: <2803.862061 0 4220.950195> Animal_CanisLupus_G
+Position: <2803.81 0 4220.950195> Animal_CanisLupus_
+Position: <2803.862061 0 4220.950195> Animal_CanisLupu
+Position: <2803.8621, 21314, 4220.950195> Animal_CanisLup
